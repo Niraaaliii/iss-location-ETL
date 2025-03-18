@@ -1,6 +1,10 @@
 # ISS Location Tracker
 
-This project tracks the International Space Station (ISS) location and visualizes its path using free tools. It's designed to be developed in GitHub Codespaces.
+International Space Station Current Location
+The International Space Station is moving at close to 28,000 km/h so its location changes really fast! Where is it right now?
+
+Overview
+This is a simple api to return the current location of the ISS. It returns the current latitude and longitude of the space station with a unix timestamp for the time the location was valid. 
 
 ## Project Structure
 ```
